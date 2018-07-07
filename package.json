@@ -1,0 +1,11 @@
+{
+  "name": "update-batcher",
+  "version": "1.0.0",
+  "description": "Batches all the calls to an update function to reduce calls to the database",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "ZaninAndrea",
+  "license": "MIT"
+}
