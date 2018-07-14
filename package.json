@@ -1,6 +1,6 @@
 {
   "name": "update-batcher",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Batches all the calls to an update function to reduce calls to the database",
   "main": "index.js",
   "scripts": {

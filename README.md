@@ -13,7 +13,7 @@ yarn add update-batcher
 
 Import the module
 ```js
-const UpdateBatcher = require("./index");
+const UpdateBatcher = require("update-batcher");
 ```
 
 Create an instance passing an update function and optionally a batching function
